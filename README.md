@@ -13,4 +13,6 @@
 
 ### 例子
 
+![image](https://github.com/latentgod/zoomeye_search/blob/master/zoomeye_help.jpg)
 
+![image](https://github.com/latentgod/zoomeye_search/blob/master/example.png)
